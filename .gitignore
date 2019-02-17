@@ -1,3 +1,4 @@
 # ignore output files
 *.exe
 *.out
+.metadata
