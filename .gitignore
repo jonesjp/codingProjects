@@ -2,3 +2,9 @@
 *.exe
 *.out
 .metadata
+
+# ignore packages
+java/art_and_science/Ch2/acm/*
+
+# ignore settings
+*.settings
